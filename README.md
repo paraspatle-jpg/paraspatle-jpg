@@ -1,20 +1,20 @@
-### Hi there 👋 I'm Paras
+## Paras Patle
 
-Software developer. I build things for the web, and occasionally bugs.
+Software developer. I build things for the web.
 
-🌐 **Portfolio:** [paraspatle.in](https://www.paraspatle.in) &nbsp;·&nbsp; 🐦 [@avgparasite](https://x.com/avgparasite)
+[paraspatle.in](https://www.paraspatle.in) &nbsp;·&nbsp; [x.com/avgparasite](https://x.com/avgparasite) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/paras-patle-0407051a1/)
 
-**Things I've built**
+<br>
 
-- 🃏 **[gully poker](https://poker.paraspatle.in)**: free online Texas Hold'em with friends. One link to join, no sign-up, works on phones. Or play heads-up against [Bug the cat](https://poker.paraspatle.in/bug).
-- 🐈 **[Bug for Chrome](https://github.com/paraspatle-jpg/bug-extension)**: the cat from [my site](https://www.paraspatle.in/bug), as a Chrome extension. She roams your tabs and takes orders through your own AI key.
-- 💸 **[Damage Report](https://www.paraspatle.in/projects/damage-report)**: a Telegram bot that logs expenses from plain English. Gemini parses, code double-checks.
-- ✍️ **[Writing](https://www.paraspatle.in/#writing)**: [Why can't setState be awaited?](https://www.paraspatle.in/blog/why-cant-setstate-be-awaited) · [The day I decided to automate PR reviews](https://www.paraspatle.in/blog/the-day-i-decided-to-automate-pr-reviews)
+**Projects**
 
-![Profile views](https://komarev.com/ghpvc/?username=paraspatle-jpg&color=blueviolet)
+[gully poker](https://poker.paraspatle.in) &nbsp;—&nbsp; online Texas Hold'em with friends  
+[Bug for Chrome](https://github.com/paraspatle-jpg/bug-extension) &nbsp;—&nbsp; a cat that lives in your browser  
+[Damage Report](https://www.paraspatle.in/projects/damage-report) &nbsp;—&nbsp; expenses, logged from plain English
 
-[![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=paraspatle-jpg&show_icons=true&theme=tokyonight)](https://github.com/paraspatle-jpg/github-readme-stats)
+<br>
 
-[![Paras's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=paraspatle-jpg&theme=tokyonight)](https://github.com/paraspatle-jpg/github-readme-stats)
+**Writing**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paraspatle-jpg&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/paraspatle-jpg/github-readme-stats)
+[Why can't setState be awaited?](https://www.paraspatle.in/blog/why-cant-setstate-be-awaited)  
+[The day I decided to automate PR reviews](https://www.paraspatle.in/blog/the-day-i-decided-to-automate-pr-reviews)
